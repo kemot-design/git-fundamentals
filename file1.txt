@@ -2,4 +2,3 @@ This is file #1
 Some more code
 
 Fix1
-
